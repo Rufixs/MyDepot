@@ -1,3 +1,6 @@
 @import url(./libs/normalize.scss);
+h1 {
+  color: #003feb;
+}
 
 /*# sourceMappingURL=style.css.map */

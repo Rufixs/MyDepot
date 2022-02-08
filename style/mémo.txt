@@ -1,2 +1,19 @@
 Commande à taper dans le terminal pour compiler en direct le sass:
 ./dart-sass/sass ./style/scss/style.scss ./style/css/style.css --watch
+
+
+Font :
+
+Roboto : @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+Poppins : @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+Raleway : @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+Monserrat : @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+Firacode : @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+
+illustration : undraw.co/illustration
+
